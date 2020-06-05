@@ -1,2 +1,2 @@
-# Recycle_Collect_Points
+# Recycle Collect Points
 Next Level Week #1
