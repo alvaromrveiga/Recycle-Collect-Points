@@ -1,2 +1,2 @@
-# Recycle Collect Points
+# Ecoleta
 Next Level Week #1
