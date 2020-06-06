@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; //serve para que não sejam recarregadas coisas desnecessárias quando mudar de página
+
 import './styles.css';
 import logo from '../../assets/logo.svg';
 import { FiLogIn } from 'react-icons/fi';
@@ -15,12 +17,12 @@ const Home = () => {
                     <h1>Seu marketplace de coleta de resíduos.</h1>
                     <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente</p>
 
-                    <a href="/cadastro">
+                    <Link to="/create-point">
                         <span>
                             <FiLogIn />
                         </span>
                         <strong>Cadastre um ponto de coleta</strong>
-                    </a>
+                    </Link>
                 </main>
             </div>
         </div>
