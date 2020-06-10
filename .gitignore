@@ -119,4 +119,7 @@ dist
 .env.production.local
 
 #images from uploads
-uploads/.jpeg
+uploads/*.jpeg
+
+#remove database
+*.sqlite
