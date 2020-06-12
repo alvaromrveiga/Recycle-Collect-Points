@@ -2,9 +2,11 @@
 
 Ecoleta provides a way to register places that collect recyclabe items and show them and what the collect on a map.
 
-## Instalation
+## Installation
+Todo
 
 ## Usage
+Todo
 
 ## Acknowledgment
 * Next Level Week #1 from [RocketSeat](https://rocketseat.com.br/)
