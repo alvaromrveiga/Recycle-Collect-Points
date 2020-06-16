@@ -101,6 +101,9 @@ const CreatePoint = () => {
         setSelectedPosition([event.latlng.lat, event.latlng.lng]);
     }
 
+    useEffect(() => { //faz o selectedPosition atualizar assim que é alterado, impedindo que uma versão desatualizada seja usada
+    }, [selectedPosition]);
+
     function handleInputChange(event: ChangeEvent<HTMLInputElement>) {
         const { name, value } = event.target;
 
@@ -145,8 +148,6 @@ const CreatePoint = () => {
         if (selectedFile) {
             data.append('image', selectedFile);
         }
-
-
 
         await api.post('points', data);
 
