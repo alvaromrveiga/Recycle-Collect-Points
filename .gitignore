@@ -120,6 +120,9 @@ dist
 
 #images from uploads
 server/uploads/*.jpeg
+server/uploads/*.jpg
+server/uploads/*.png
+server/uploads/*.gif
 
 #remove database
 *.sqlite
