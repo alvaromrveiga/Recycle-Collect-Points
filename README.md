@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/master/web/src/assets/logo.svg">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/master/web/src/assets/logo.svg"><br>
+  Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e os mostra em um mapa e o que coletam.
 </p>
-
-Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e os mostra em um mapa e o que coletam.
 
 <p align="center">
   <br><b>Read in <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.en.md">English</a></b><br>
