@@ -94,9 +94,7 @@ Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e o
       $ expo start --tunnel
     ```
     * Leia o QR Code com o aplicativo Expo
-
-## Como contribuir
-
+    
 ## Reconhecimentos
 * Next Level Week #1 da [RocketSeat](https://rocketseat.com.br/)
 * [Diego Fernandes](https://github.com/diego3g)
