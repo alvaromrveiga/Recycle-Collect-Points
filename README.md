@@ -16,7 +16,7 @@ Sumário
       * [Web](#web)
       * [Mobile](#mobile)
    * [Tecnologias](#tecnologias)
-      * [Server ( <a href="/alvaromrveiga/ecoleta-nlw/blob/master">NodeJS</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#server--nodejs--typescript-)
+      * [Server ( <a href="https://nodejs.org/en/">NodeJS</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#server--nodejs--typescript-)
       * [Web ( <a href="https://reactjs.org/" rel="nofollow">React</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#web--react--typescript-)
       * [Mobile( <a href="/alvaromrveiga/ecoleta-nlw/blob/master">React Native</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#mobile-react-native--typescript-)
    * [Instalação](#instalação)
@@ -43,7 +43,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 </p>
 
 ## Tecnologias
-#### Server ( [NodeJS]() + [Typescript](https://www.typescriptlang.org/) )
+#### Server ( [NodeJS](https://nodejs.org/en/) + [Typescript](https://www.typescriptlang.org/) )
  * [Express](https://expressjs.com/)
  * [KnexJS](http://knexjs.org/)
  * [Node SQLite3](https://github.com/mapbox/node-sqlite3)
