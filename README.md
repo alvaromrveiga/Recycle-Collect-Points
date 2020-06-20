@@ -8,6 +8,7 @@ Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e o
   <br><b>Read in <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.en.md">English</a></b><br>
 </p>
 
+[Design](#design)
 
 Sumário
 =================
@@ -16,9 +17,9 @@ Sumário
       * [Web](#web)
       * [Mobile](#mobile)
    * [Tecnologias](#tecnologias)
-      * [Server ( <a href="https://nodejs.org/en/">NodeJS</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#server--nodejs--typescript-)
-      * [Web ( <a href="https://reactjs.org/" rel="nofollow">React</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#web--react--typescript-)
-      * [Mobile( <a href="/alvaromrveiga/ecoleta-nlw/blob/master">React Native</a>   <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#mobile-react-native--typescript-)
+      * [Server ( <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#server--nodejs--typescript-)
+      * [Web ( <a href="https://reactjs.org/" rel="nofollow">React</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#web--react--typescript-)
+      * [Mobile( <a href="/alvaromrveiga/ecoleta-nlw/blob/master">React Native</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#mobile-react-native--typescript-)
    * [Instalação](#instalação)
       * [Servidor](#servidor)
       * [Web](#web-1)
@@ -26,7 +27,7 @@ Sumário
    * [Reconhecimentos](#reconhecimentos)
    * [Licença](#licença)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+<sub>Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)</sub>
 
 ## Design
 ### Web
