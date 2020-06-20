@@ -9,7 +9,7 @@ Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e o
 </p>
 
 <p align="center">
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/edit/master/README.md#design">Design</a>
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#design">Design</a>
 </p>
 
 Sumário
