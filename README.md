@@ -8,6 +8,19 @@ Ecoleta provê uma forma de registrar lugares que coletam itens recicláveis e o
   <br><b>Read in <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.en.md">English</a></b><br>
 </p>
 
+## Design
+### Web
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/assets/web-beginning.png">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/assets/web-create-point.gif">
+</p>
+
+### Mobile
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/assets/mobile-beginning.jpeg">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/assets/mobile-point-details.jpeg">
+  <img src="https://raw.githubusercontent.com/alvaromrveiga/ecoleta-nlw/assets/mobile-map.gif">
+</p>
 
 ## Tecnologias
 #### Server ( [NodeJS]() + [Typescript](https://www.typescriptlang.org/) )
