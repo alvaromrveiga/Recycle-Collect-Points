@@ -8,31 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#design">Design</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#tecnologias">Tecnologias</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#instalação">Instalação</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#reconhecimentos">Reconhecimentos</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw/blob/master/README.md#licença">Licença</a>  
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#design">Design</a> / 
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#tecnologias">Tecnologias</a> / 
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#instalação">Instalação</a> / 
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#reconhecimentos">Reconhecimentos</a> / 
+  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#licença">Licença</a>  
 </p>
-
-Sumário
-=================
-
-   * [Design](#design)
-      * [Web](#web)
-      * [Mobile](#mobile)
-   * [Tecnologias](#tecnologias)
-      * [Server ( <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#server--nodejs--typescript-)
-      * [Web ( <a href="https://reactjs.org/" rel="nofollow">React</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#web--react--typescript-)
-      * [Mobile( <a href="https://github.com/facebook/react-native#readme">React Native</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">Typescript</a> )](#mobile-react-native--typescript-)
-   * [Instalação](#instalação)
-      * [Servidor](#servidor)
-      * [Web](#web-1)
-      * [Mobile](#mobile-1)
-   * [Reconhecimentos](#reconhecimentos)
-   * [Licença](#licença)
-
-<sub>Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)</sub>
 
 ## Design
 ### Web
