@@ -52,7 +52,7 @@
  * [React Navigation](https://reactnavigation.org/docs/getting-started)
  * [React Native Maps](https://github.com/react-native-community/react-native-maps)
 
-## Instalação
+## Instalação e Uso
  1. Se já não tiver, instale o [Node](https://nodejs.org/en/download/)
  1. Clone este repositório
  1. Entre na pasta do respositório e em cada uma das pastas server, web e mobile e execute pelo terminal/prompt:
