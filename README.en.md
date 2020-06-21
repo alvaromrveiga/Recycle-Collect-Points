@@ -92,7 +92,7 @@
      
      # Copy the link ngrok shows. Example: http://e48931b22dc2.ngrok.io
      # Inside ./mobile/src edit the file serverAddress.ts
-     const serverAddress = 'Ngrok's link';     
+     const serverAddress = 'Ngrok link';     
      # Example: const serverAddress = 'http://e48931b22dc2.ngrok.io';
      # It's really important that there is no '/' or '\' after .io
      
