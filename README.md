@@ -91,7 +91,7 @@
      $ ngrok http 3333
      
      # Copie o endereço que o ngrok der. Exemplo: http://e48931b22dc2.ngrok.io
-     # Dentro de ./mobile/src edite o arquivo serverAdress.ts
+     # Dentro de ./mobile/src edite o arquivo serverAddress.ts
      const serverAddress = 'Endereço do ngrok';
      # Exemplo: const serverAddress = 'http://e48931b22dc2.ngrok.io';
      # É importante que não haja uma barra no final, após o .io
