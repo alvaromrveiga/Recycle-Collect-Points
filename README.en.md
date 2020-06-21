@@ -92,9 +92,9 @@
      
      # Copy the link ngrok shows. Example: http://e48931b22dc2.ngrok.io
      # Inside ./mobile/src edit the file serverAddress.ts
-     const serverAddress = 'Ngrok's link';
+     const serverAddress = 'Ngrok's link';     
      # Example: const serverAddress = 'http://e48931b22dc2.ngrok.io';
-     # It's really important that there is no '/' after .io
+     # It's really important that there is no '/' or '\' after .io
      
      # Run inside folder /mobile
       # Opens Expo server in tunnel mode, this way it is possible to enter in the same Wi-Fi but in different IPs (DHCP)
