@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#design">Design</a> / 
   <a href="#tecnologias">Tecnologias</a> / 
-  <a href="#instalação">Instalação</a> / 
+  <a href="#instalação-e-uso">Instalação e Uso</a> / 
   <a href="#reconhecimentos">Reconhecimentos</a> / 
   <a href="#licença">Licença</a>  
 </p>
