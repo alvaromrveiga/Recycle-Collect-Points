@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="#design">Design</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#tecnologias">Tecnologias</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#instalação">Instalação</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#reconhecimentos">Reconhecimentos</a> / 
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#licença">Licença</a>  
+  <a href="#tecnologias">Tecnologias</a> / 
+  <a href="#instalação">Instalação</a> / 
+  <a href="#reconhecimentos">Reconhecimentos</a> / 
+  <a href="#licença">Licença</a>  
 </p>
 
 ## Design
