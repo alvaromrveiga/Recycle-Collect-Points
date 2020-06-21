@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alvaromrveiga/ecoleta-nlw#design">Design</a> / 
+  <a href="#design">Design</a> / 
   <a href="https://github.com/alvaromrveiga/ecoleta-nlw#tecnologias">Tecnologias</a> / 
   <a href="https://github.com/alvaromrveiga/ecoleta-nlw#instalação">Instalação</a> / 
   <a href="https://github.com/alvaromrveiga/ecoleta-nlw#reconhecimentos">Reconhecimentos</a> / 
