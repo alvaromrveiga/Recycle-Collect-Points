@@ -87,7 +87,7 @@
      # Install [ngrok](https://ngrok.com/) to open a public server of your localhost
      $ npm install ngrok -g
      
-     # Open server's port with ngrok ( Node's default port is 3333 )
+     # Open server's port with ngrok ( Project's default port is 3333 )
      $ ngrok http 3333
      
      # Copy the link ngrok shows. Example: http://e48931b22dc2.ngrok.io
