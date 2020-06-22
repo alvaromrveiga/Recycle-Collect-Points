@@ -87,7 +87,7 @@
      # Instale o [ngrok](https://ngrok.com/) para abrir um servidor público do seu localhost
      $ npm install ngrok -g
      
-     # Abra a porta do servidor com o ngrok (a porta padrão do node é 3333)
+     # Abra a porta do servidor com o ngrok (a porta especificada no projeto é 3333)
      $ ngrok http 3333
      
      # Copie o endereço que o ngrok der. Exemplo: http://e48931b22dc2.ngrok.io
