@@ -55,7 +55,7 @@
 ## Instalação e Uso
  1. Se já não tiver, instale o [Node](https://nodejs.org/en/download/)
  1. Clone este repositório
- 1. Entre na pasta do respositório e em cada uma das pastas server, web e mobile e execute pelo terminal/prompt:
+ 1. Entre na pasta do respositório e dentro de cada uma das pastas server, web e mobile e execute pelo terminal/prompt:
     ```sh 
      $ npm install 
     ```
