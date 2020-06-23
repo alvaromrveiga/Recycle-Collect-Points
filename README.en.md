@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#design">Design</a> / 
   <a href="#technologies">Technologies</a> / 
-  <a href="#installation-and-usage">Installation and Usage</a> / 
+  <a href="#installation">Installation</a> / 
   <a href="#acknowledgments">Acknowledgments</a> / 
   <a href="#license">License</a>  
 </p>
@@ -52,7 +52,7 @@
  * [React Navigation](https://reactnavigation.org/docs/getting-started)
  * [React Native Maps](https://github.com/react-native-community/react-native-maps)
 
-## Installation and Usage
+## Installation
  1. If you don't have it yet, install [Node](https://nodejs.org/en/download/)
  1. Clone this repository
  1. Enter the repository's folder and inside each of the folders server, web and mobile run through terminal:
